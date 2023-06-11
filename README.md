@@ -1,6 +1,10 @@
 <h1 align="center">Ey everyone! 👋</h1>
-<h2 align="center">IT</h3>
 
+<div>
+ <a><h2 align="left">IT</h3></a>
+  <a><img width="250" align="right" src="https://i.imgur.com/pCfyWqr.jpeg"></a>
+</div>
+  
 <div align="center">
   <img alt="portal" width="200" src="https://i.pinimg.com/originals/ff/0a/26/ff0a26a63a3b9d602f84ab94aa7dfe61.gif">
 </div>
