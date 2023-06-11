@@ -1,6 +1,5 @@
-<h1 align="center">Ey everyone! 👋</h1>
-
- <a><h2 align="center">IT</h3></a>
+Hi everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+=
   
 <div align="center">
   <img alt="portal" width="200" src="https://i.pinimg.com/originals/ff/0a/26/ff0a26a63a3b9d602f84ab94aa7dfe61.gif">
